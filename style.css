@@ -1,0 +1,49 @@
+body { background-color: lightcyan;}
+header {background-color: aqua;}
+header nav {
+    text-align: center;
+    background-color: black;
+}
+nav a {
+    text-decoration: none;
+    padding-left: 20px;
+    color: white;
+}
+.nav:hover{ color: blue;}
+
+
+header div {
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
+.Guys {
+    background-color: yellow;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.image img { width: 200px;}
+.info{ max-width: 600px;}
+.nezha {
+    background-color: whitesmoke;
+     display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+#genres { background-color: chocolate;}
+
+#contact {background-color: aquamarine;}
+form input, textarea { width: 99.5%;}
+form button { width: 99.8%;}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+
+

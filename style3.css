@@ -1,0 +1,66 @@
+body {background-color: lightgray;}
+#home{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    height: 40%;
+}
+.nav {
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+    
+
+}
+.nav:hover {
+    color: blue;}
+
+header {
+    background-color: aquamarine;
+    text-align: center;
+   
+    
+}  
+
+#categories { background-color: white;}
+#Book h1 { text-align: center;}
+table { 
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 80%;
+    
+    
+}
+th td { 
+    border: 1px solid black;
+    padding: 10px;
+   
+}
+th {
+     background-color: bisque;
+    text-align: center;
+}
+td {
+     background-color: white;
+     text-align: center;
+}
+table img {
+    width: 20px;
+    height: 20px;
+    align-items: center;
+}
+
+#contact {  background-color: lightblue;}
+form input, textarea, button{ width: 99.5%;}
+
+form button {
+     background-color: black;
+     color: white;
+     width: 99.8%;
+}
+footer {
+     background-color: black;
+     color: white;
+     text-align: center;
+}
